@@ -1,0 +1,226 @@
+School Code,Theme Name ,NO of users enrolled
+AKPS,Art & Craft,29
+AKPS,Artificial Intelligence,26
+AKPS,Coding,52
+AKPS,Dance,53
+AKPS,Electronics,2
+AKPS,Finance &Entrepreneurship,1
+AKPS,Language & Communication,100
+AKPS,Life Science,30
+AKPS,Life Skills,2
+AKPS,Math,100
+AKPS,Music,6
+AKPS,STEM,2
+AKPS,Yoga,3
+FIS,Art & Craft,57
+FIS,Basic Math,71
+FIS,Coding,75
+FIS,Creative Science,71
+FIS,Electronics,4
+FIS,Finance &Entrepreneurship,3
+FIS,Language & Communication,92
+FIS,Language &Life Skills,71
+FIS,Life Science,79
+FIS,Life Skills,35
+FIS,Math,138
+FIS,Music,1
+FIS,STEM,77
+GBSP,Art & Craft,147
+GBSP,Artificial Intelligence,213
+GBSP,Basic Math,74
+GBSP,Coding,603
+GBSP,Creative Math and Science,2
+GBSP,Creative Science,74
+GBSP,Dance,3
+GBSP,Electronics,2
+GBSP,Finance &Entrepreneurship,7
+GBSP,Language & Communication,604
+GBSP,Language &Life Skills,74
+GBSP,Life Science,15
+GBSP,Life Skills,44
+GBSP,Math,396
+GBSP,Music,9
+GBSP,STEM,13
+GBSP,Yoga,5
+INSS,Art & Craft,53
+INSS,Artificial Intelligence,107
+INSS,Basic Math,1
+INSS,Coding,17
+INSS,Creative Science,1
+INSS,Dance,5
+INSS,Electronics,6
+INSS,Finance &Entrepreneurship,1
+INSS,Language & Communication,381
+INSS,Language &Life Skills,1
+INSS,Life Science,143
+INSS,Life Skills,145
+INSS,Math,371
+INSS,Music,19
+INSS,STEM,64
+INSS,Yoga,3
+KPS,Art & Craft,61
+KPS,Artificial Intelligence,7
+KPS,Coding,42
+KPS,Dance,23
+KPS,Electronics,8
+KPS,Finance &Entrepreneurship,3
+KPS,Language & Communication,131
+KPS,Life Science,34
+KPS,Life Skills,66
+KPS,Math,82
+KPS,Music,19
+KPS,STEM,36
+KPS,Yoga,7
+LMS,Artificial Intelligence,176
+LMS,Coding,373
+LMS,Finance &Entrepreneurship,192
+LMS,Language & Communication,491
+LMS,Life Science,377
+LMS,Life Skills,418
+LMS,Math,364
+MDS,Art & Craft,2
+MDS,Coding,2
+MDS,Finance &Entrepreneurship,1
+MDS,Language & Communication,9
+MDS,Life Science,1
+MDS,Life Skills,8
+MDS,Math,8
+MDS,STEM,1
+MDS,Yoga,1
+MDS,Total,11
+NPAS,Art & Craft,300
+NPAS,Coding,3
+NPAS,Finance &Entrepreneurship,1
+NPAS,Language & Communication,300
+NPAS,Life Skills,1
+NPAS,Math,300
+NPAS,Music,1
+PHS,Art & Craft,13
+PHS,Artificial Intelligence,24
+PHS,Coding,83
+PHS,Language & Communication,83
+PHS,Life Skills,159
+PHS,STEM,70
+RPS,Coding,2
+RPS,Language & Communication,67
+RPS,Life Skills,65
+RPS,Math,67
+RRSD,Art & Craft,15
+RRSD,Artificial Intelligence,34
+RRSD,Basic Math,62
+RRSD,Coding,129
+RRSD,Creative Science,62
+RRSD,Dance,1
+RRSD,Electronics,1
+RRSD,Finance &Entrepreneurship,57
+RRSD,Language & Communication,152
+RRSD,Language &Life Skills,62
+RRSD,Life Science,62
+RRSD,Life Skills,14
+RRSD,Math,134
+RRSD,Music,4
+RRSD,STEM,6
+SAPS,Art & Craft,45
+SAPS,Artificial Intelligence,10
+SAPS,Coding,202
+SAPS,Dance,62
+SAPS,Electronics,21
+SAPS,Finance &Entrepreneurship,12
+SAPS,Language & Communication,256
+SAPS,Life Science,54
+SAPS,Life Skills,34
+SAPS,Math,260
+SAPS,Music,9
+SAPS,STEM,98
+SAPS,Yoga,13
+SEMRS,Artificial Intelligence,1
+SEMRS,Coding,2
+SEMRS,Language & Communication,184
+SEMRS,Life Science,183
+SEMRS,Life Skills,1
+SEMRS,Math,184
+SHS,Art & Craft,11
+SHS,Coding,7
+SHS,Dance,6
+SHS,Electronics,2
+SHS,Finance &Entrepreneurship,1
+SHS,Language & Communication,30
+SHS,Life Science,13
+SHS,Life Skills,37
+SHS,Math,38
+SHS,Music,2
+SHS,STEM,9
+SHS,Yoga,6
+SLLIV,Art & Craft,2
+SLLIV,Artificial Intelligence,1
+SLLIV,Coding,2
+SLLIV,Dance,1
+SLLIV,Language & Communication,184
+SLLIV,Life Science,7
+SLLIV,Life Skills,178
+SLLIV,Math,185
+SLLIV,Music,2
+SLLIV,STEM,1
+SNSH,Art & Craft,17
+SNSH,Artificial Intelligence,1
+SNSH,Coding,8
+SNSH,Dance,7
+SNSH,Electronics,1
+SNSH,Finance &Entrepreneurship,6
+SNSH,Language & Communication,38
+SNSH,Life Science,9
+SNSH,Life Skills,23
+SNSH,Math,34
+SNSH,Music,6
+SNSH,STEM,15
+SNSH,Yoga,2
+SPSK,Artificial Intelligence,51
+SPSK,Coding,99
+SPSK,Dance,1
+SPSK,Language & Communication,102
+SPSK,Life Science,2
+SPSK,Life Skills,48
+SPSK,Math,2
+SRS,Art & Craft,19
+SRS,Artificial Intelligence,8
+SRS,Coding,351
+SRS,Dance,22
+SRS,Electronics,10
+SRS,Finance &Entrepreneurship,327
+SRS,Language & Communication,51
+SRS,Life Science,335
+SRS,Life Skills,71
+SRS,Math,49
+SRS,Music,9
+SRS,STEM,16
+SRS,Yoga,8
+VNA,Artificial Intelligence,33
+VNA,Basic Math,102
+VNA,Coding,114
+VNA,Creative Science,102
+VNA,Finance &Entrepreneurship,9
+VNA,Language & Communication,111
+VNA,Language &Life Skills,102
+VNA,Life Science,74
+VNA,Life Skills,110
+VNA,Math,113
+VSV,Coding,255
+VSV,Finance &Entrepreneurship,100
+VSV,Language & Communication,204
+VSV,Life Science,155
+VSV,Life Skills,159
+VSV,Math,209
+WIIP,Art & Craft,4
+WIIP,Basic Math,52
+WIIP,Coding,139
+WIIP,Creative Science,52
+WIIP,Electronics,1
+WIIP,Finance &Entrepreneurship,139
+WIIP,Language & Communication,286
+WIIP,Language &Life Skills,52
+WIIP,Life Science,31
+WIIP,Life Skills,116
+WIIP,Math,147
+WIIP,Music,8
+WIIP,STEM,6
+WIIP,Yoga,3
